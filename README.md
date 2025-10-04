@@ -1,2 +1,2 @@
 # Todo_List
-Created with CodeSandbox
+to do list app with react 
